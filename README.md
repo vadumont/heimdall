@@ -11,4 +11,6 @@ Pour ce faire nous utilisons l'IDS Snort couplé au Firewall natif Netfilter.
 Ce dépôt Git vous propose de suivre l'évolution de cette automatisation de défense.
 Les scripts d'installation sont disponibles dans le dossier /src/
 
+Le projet est en développement sur des systèmes Debian. Nous mettrons en place l'intégration sur d'autres OS plus tard.
+
 Pour toute remarque ou question, merci de bien vouloir envoyer un mail à : gitlab.vdumont.info@gmail.com
